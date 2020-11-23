@@ -1,6 +1,8 @@
 from __future__ import print_function
 import random
 
+# test file
+
 buzz = ('continuous testing', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
